@@ -1,0 +1,3 @@
+line-bot-sdk
+urllib3
+google-cloud-translate

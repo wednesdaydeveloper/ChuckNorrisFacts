@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+＃my-sample-project-a77664f454be.json
+.env.yaml
